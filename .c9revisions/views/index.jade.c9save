@@ -1,0 +1,4 @@
+{"ts":1369839701988,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1369839964257,"patch":[[{"diffs":[[1,"doctype 5\nhtml(lang=\"en\")\n  head\n    title= #{title}\n    \n  body\n    h1 #{title}\n    p Welcome to #{title}"]],"start1":0,"start2":0,"length1":0,"length2":106}]],"length":106,"saved":false}
+{"ts":1369840155042,"patch":[[{"diffs":[[0,"   title"],[-1,"="],[0," #{title"]],"start1":34,"start2":34,"length1":17,"length2":16}]],"length":105,"saved":false}
+{"ts":1369840221954,"patch":[[{"diffs":[[0,"le #{title}\n"],[1,"    link(rel='stylesheet', href='/stylesheets/style.css')\n"],[0,"    \n  body\n"]],"start1":40,"start2":40,"length1":24,"length2":82}]],"length":163,"saved":false}
